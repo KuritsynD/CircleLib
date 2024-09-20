@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleLib", "CircleLib\CircleLib.csproj", "{28078E55-9E7C-4757-83D9-7DC2F06C7F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28078E55-9E7C-4757-83D9-7DC2F06C7F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28078E55-9E7C-4757-83D9-7DC2F06C7F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28078E55-9E7C-4757-83D9-7DC2F06C7F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28078E55-9E7C-4757-83D9-7DC2F06C7F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

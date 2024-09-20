@@ -1,0 +1,11 @@
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\bin\Debug\net8.0\CircleLib.deps.json
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\bin\Debug\net8.0\CircleLib.dll
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\bin\Debug\net8.0\CircleLib.pdb
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\CircleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\CircleLib.AssemblyInfoInputs.cache
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\CircleLib.AssemblyInfo.cs
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\CircleLib.csproj.CoreCompileInputs.cache
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\CircleLib.dll
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\refint\CircleLib.dll
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\CircleLib.pdb
+C:\Users\dm4ka\OneDrive\Рабочий стол\IT\С#\My project\CircleLib\CircleLib\obj\Debug\net8.0\ref\CircleLib.dll
